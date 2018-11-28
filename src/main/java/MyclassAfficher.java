@@ -4,6 +4,6 @@ public class MyclassAfficher {
 
 	public void afficherMsg() {
 		
-		System.out.println("« Welcome to IC »");
+		System.out.println("Â«Â Welcome to espritÂ Â»");
 	}
 }
